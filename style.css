@@ -136,6 +136,6 @@ transform: rotateX(90deg) translateZ(-150px);
   align-items: center;
 }
 
-.body{
+.page{
   background-color: black;
 }
