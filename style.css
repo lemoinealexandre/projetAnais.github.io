@@ -134,6 +134,7 @@ transform: rotateX(90deg) translateZ(-150px);
 .response{
   display: flex;
   align-items: center;
+  margin-bottom: 100px;
 }
 
 .page{
