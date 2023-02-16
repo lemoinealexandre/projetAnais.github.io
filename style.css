@@ -108,6 +108,13 @@ transform: rotateX(90deg) translateZ(-150px);
   text-align: center;
 }
 
+.title2{
+  margin-top: 10px;
+  font-size: 10px;
+  width: 100%;
+  text-align: center;
+}
+
 .all{
   display: flex;
   flex-direction: column;
